@@ -63,6 +63,11 @@ public class ItemDetailActivity extends AppCompatActivity {
         }
     }
 
+
+    public void startGame(){
+
+    }
+
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
